@@ -1,17 +1,17 @@
 
-# USERS
-## - What can I do with ARCHES?
-## - Logging on
-## Searching Arches
-### Filtering
- -By concept
- -By area
- -By time
-### Viewing Results
-  - Selecting resources
+1. # USERS
+ 1. ## - What can I do with ARCHES?
+ 1. ## - Logging on
+ 1. ## Searching Arches
+  1. ### Filtering
+   1. By concept
+   1. By area
+   1. By time
+  1. ### Viewing Results
+   1. Selecting resources
 
-# ADMIN
+1. # ADMIN
 
-# SUPERUSER
+1. # SUPERUSER
 
-# COLLECTOR
+1. # COLLECTOR
